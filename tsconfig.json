@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-confirmation-dialog": [
+        "dist/ngx-confirmation-dialog"
+      ],
+      "ngx-confirmation-dialog/*": [
+        "dist/ngx-confirmation-dialog/*"
+      ]
+    }
   }
 }

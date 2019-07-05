@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'confirmation-dialog';
+
+  delete(){
+    console.log("Yess")
+  }
 }

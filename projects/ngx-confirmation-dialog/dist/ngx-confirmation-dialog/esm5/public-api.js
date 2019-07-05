@@ -1,0 +1,12 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of ngx-confirmation-dialog
+ */
+export { NgxConfirmationDialogService } from './lib/ngx-confirmation-dialog.service';
+export { NgxConfirmationDialogComponent } from './lib/ngx-confirmation-dialog.component';
+export { NgxConfirmationDialogModule } from './lib/ngx-confirmation-dialog.module';
+export { NgxConfirmationDialog } from './lib/ngx-confirmation-dialog.directive';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25neC1jb25maXJtYXRpb24tZGlhbG9nLyIsInNvdXJjZXMiOlsicHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsNkNBQWMsdUNBQXVDLENBQUM7QUFDdEQsK0NBQWMseUNBQXlDLENBQUM7QUFDeEQsNENBQWMsc0NBQXNDLENBQUM7QUFDckQsc0NBQWMseUNBQXlDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG5neC1jb25maXJtYXRpb24tZGlhbG9nXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvbmd4LWNvbmZpcm1hdGlvbi1kaWFsb2cuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9uZ3gtY29uZmlybWF0aW9uLWRpYWxvZy5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbmd4LWNvbmZpcm1hdGlvbi1kaWFsb2cubW9kdWxlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL25neC1jb25maXJtYXRpb24tZGlhbG9nLmRpcmVjdGl2ZSc7XG4iXX0=

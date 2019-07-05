@@ -1,0 +1,24 @@
+{
+  "name": "ngx-confirmation-dialog",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "dependencies": {
+    "@angular/animations": "^7.1.1",
+    "@angular/cdk": "^7.1.1",
+    "@angular/material": "^7.1.1",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/ngx-confirmation-dialog.umd.js",
+  "module": "fesm5/ngx-confirmation-dialog.js",
+  "es2015": "fesm2015/ngx-confirmation-dialog.js",
+  "esm5": "esm5/ngx-confirmation-dialog.js",
+  "esm2015": "esm2015/ngx-confirmation-dialog.js",
+  "fesm5": "fesm5/ngx-confirmation-dialog.js",
+  "fesm2015": "fesm2015/ngx-confirmation-dialog.js",
+  "typings": "ngx-confirmation-dialog.d.ts",
+  "metadata": "ngx-confirmation-dialog.metadata.json",
+  "sideEffects": false
+}
